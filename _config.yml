@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ana Maria Mainhardt"
   avatar           : "IMG_0646.png"
-  bio              : PhD Student at the <a href="https://www.mpi-sws.org">Max-Planck Institute for Software Systems</a>
+  bio              : PhD Student at the <a style='color: black;' href="https://www.mpi-sws.org">Max-Planck Institute for Software Systems</a>
   location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=YSJ7b8sAAAAJ&hl=en&citsig=AEDxBGzcn3YiySPi4E6EcKpfngSH"
-  email            : "amainhardt@mpi-sws.org"
+  email            : "amainhardt[at]mpi-sws[dot]org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
