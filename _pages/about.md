@@ -10,7 +10,7 @@ redirect_from:
 
 
 I am Ana Maria, a 3rd-year PhD candidate at the
-[Max-Planck Institute for Software Systems](https://www.mpi-sws.org), Kaiserslautern, Germany.
+[Max Planck Institute for Software Systems](https://www.mpi-sws.org), Kaiserslautern, Germany.
 I am advised by [Anne-Kathrin Schmuck](https://wp.mpi-sws.org/akschmuck/), in the [Control Software Systems group](https://cossy.mpi-sws.org).
 
 I studied Control and Automation Engineering
