@@ -22,3 +22,8 @@ My ongoing research lies in the field of Supervisory Control Theory,
 but my interests include Formal Verification and Systems Biology.
 
 I am a vegan who adores cats, loves hiking and biking, nature, and visual arts. :)
+
+***
+
+* Invited talk at the PhD Forum for the [Virtual Talk Series on Discrete Event Systems 2023](https://ieeecss.org/tc/discrete-event-systems/talk-series-2023), organised by IEEE CSS TC DES
+
