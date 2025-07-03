@@ -31,4 +31,4 @@ but my interests include Formal Verification and Systems Biology.
 
 ****
 ## And a bit more about me...
-I am a vegan enthusiast who adores cats. My favorite trips are in nature --- I love backpacking and bikepacking --- but I also love exploring cities for their food and visual arts. :)
+I am a vegan enthusiast who adores cats. My favorite trips are in nature, especially backpacking and bikepacking, but I also love exploring cities for their food and visual arts. :)
