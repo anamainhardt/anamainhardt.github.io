@@ -20,8 +20,8 @@ Automation Systems Engineering.
 ## My research
 My ongoing research lies in the field of Supervisory Control of Discrete Events Systems (DES).
 I have developed a method for synthesising decentralised supervisors
-that respects the private behaviour of individual distributed processes,
-which is achieved via negotiation of assume-guarantee contracts.
+that respects the private behaviour of individual distributed processes.
+This is achieved via negotiation of assume-guarantee contracts.
 Beyond safety and privacy, I am also interested in security aspects of DES and their resilience to attacks. 
 
 More broadly, my interests include other areas of Formal Methods and Control Systems, especially DES, and extend to Systems Biology, particularly gene regulatory networks, which I have explored during my Master's studies.
